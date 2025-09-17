@@ -1,3 +1,3 @@
-| Name  | Kian Mojami |
-| Introduction | 25  |
-| Hobbies | 30  |
+| Name | Kian Mojami |
+| Introduction | 25 |
+| Hobbies | 30 |
